@@ -1,0 +1,23 @@
+{
+    "user":
+    [
+            {"name":"Siva",
+            "location":"Bengaluru",
+            "likes":64,
+            "description": "Kick start your career",
+            "PostImage":"https://source.unsplash.com/random/300x200",
+            "date": 84382292349},
+            {"name":"Neeraj",
+            "location":"Pune",
+            "likes":30,
+            "description": "Sample Description",
+            "PostImage": "https://source.unsplash.com/random/300x200",
+            "date": 84382492339},
+            {"name":"Rahul",
+            "location":"Hyderabad",
+            "likes":30,
+            "description": "Take a breathe for the next day",
+            "PostImage": "https://source.unsplash.com/random/300x200",
+            "date": 84382492349}
+            ]
+}
