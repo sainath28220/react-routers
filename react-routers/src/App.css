@@ -62,7 +62,7 @@
   text-transform: capitalize;
   font-size: 1rem;
   letter-spacing: var(--spacing);
-  margin-top: 0.5rem;
+  margin-top: 2rem;
   margin-left: 0.5rem;
   margin-right: 0.5rem;
   cursor: pointer;
@@ -97,19 +97,4 @@
   margin-top: 0px;
   margin-bottom: 0px;
   margin-left: 10px;
-}
-.head1{
-  height: 3rem;
-  margin-top: 0px;
-  background:lightskyblue;
-  border:1px solid white;
-  border-radius: 0.5rem;
-}
-.lastp1{
-  height: 2rem;
-  border:1px solid white;
-  background: white;
-  margin-bottom: 0px;
-  margin-top: 5px;
-  margin-left: 105px;
 }
